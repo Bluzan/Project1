@@ -1,0 +1,11 @@
+C:\Users\Bluza\Downloads\ForecastRuble-master\ForecastRuble-master\Forecast.Domain\bin\Debug\net8.0\Forecast.Domain.deps.json
+C:\Users\Bluza\Downloads\ForecastRuble-master\ForecastRuble-master\Forecast.Domain\bin\Debug\net8.0\Forecast.Domain.dll
+C:\Users\Bluza\Downloads\ForecastRuble-master\ForecastRuble-master\Forecast.Domain\bin\Debug\net8.0\Forecast.Domain.pdb
+C:\Users\Bluza\Downloads\ForecastRuble-master\ForecastRuble-master\Forecast.Domain\obj\Debug\net8.0\Forecast.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bluza\Downloads\ForecastRuble-master\ForecastRuble-master\Forecast.Domain\obj\Debug\net8.0\Forecast.Domain.AssemblyInfoInputs.cache
+C:\Users\Bluza\Downloads\ForecastRuble-master\ForecastRuble-master\Forecast.Domain\obj\Debug\net8.0\Forecast.Domain.AssemblyInfo.cs
+C:\Users\Bluza\Downloads\ForecastRuble-master\ForecastRuble-master\Forecast.Domain\obj\Debug\net8.0\Forecast.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bluza\Downloads\ForecastRuble-master\ForecastRuble-master\Forecast.Domain\obj\Debug\net8.0\Forecast.Domain.dll
+C:\Users\Bluza\Downloads\ForecastRuble-master\ForecastRuble-master\Forecast.Domain\obj\Debug\net8.0\refint\Forecast.Domain.dll
+C:\Users\Bluza\Downloads\ForecastRuble-master\ForecastRuble-master\Forecast.Domain\obj\Debug\net8.0\Forecast.Domain.pdb
+C:\Users\Bluza\Downloads\ForecastRuble-master\ForecastRuble-master\Forecast.Domain\obj\Debug\net8.0\ref\Forecast.Domain.dll
